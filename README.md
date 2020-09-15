@@ -1,0 +1,2 @@
+# GrowBotHub
+Bachelor project
